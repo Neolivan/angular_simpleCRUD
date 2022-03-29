@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notbook Mac",
+      "price": "2000.00"
+    },
+    {
+      "name": "Teclado",
+      "price": "35.44",
+      "id": 3
+    }
+  ]
+}
